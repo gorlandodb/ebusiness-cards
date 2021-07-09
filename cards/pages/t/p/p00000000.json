@@ -1,0 +1,84 @@
+{
+    "fotos": {
+        "portada": "/svg/bg1.svg",
+        "perfil": "/png/pi1.png"
+    },
+    "informacion": {
+        "nombre": "@gorlandodb",
+        "intereses": "25, MX. Gatitos y mucho café.",
+        "profesion": "Ing. en Software"
+    },
+    "caracteristicas": {
+        "caracteristica1": {
+            "icono": "/svg/superpoderes.svg",
+            "nombre": "Superpoderes",
+            "descripcion": "Aprendizaje superrápido"
+        },
+        "caracteristica2": {
+            "icono": "/svg/habilidades.svg",
+            "nombre": "Habilidades",
+            "descripcion": "Tecnologías y resolución de problemas Tecnologías y resolución de problemas Tecnologías y resolución de problemas"
+        },
+        "caracteristica3": {
+            "icono": "/svg/cualidad.svg",
+            "nombre": "Mejor cualidad",
+            "descripcion": "Figma, After Effects"
+        }
+    },
+    "redesSociales": {
+        "youtube":{
+            "icono":"/svg/youtube.svg",
+            "ref": "https://www.youtube.com/"
+        },
+        "pinterest":{
+            "icono":"/svg/pinterest.svg",
+            "ref": "https://www.pinterest.com/"
+        },
+        "twitter":{
+            "icono":"/svg/twitter.svg",
+            "ref":"https://www.twitter.com/"
+        },
+        "linkedin":{
+            "icono":"/svg/linkedin.svg",
+            "ref":"https://www.linkedin.com/"
+        }
+    },
+    "acciones": {
+        "accion1":{
+            "icono": "/png/iconoVerde.png",
+            "contacto": "Contactar vía whatsapp",
+            "metodo": "+52 (33) 1234 5678",
+            "href":"https://www.whatsapp.com/",
+            "estilos": {
+                "border": "2px solid #17BF63",
+                "borderRadius": "30px",
+                "padding": "24px",
+                "width": "100%"
+            }
+        },
+        "accion2":{
+            "icono": "/png/iconoAzul.png",
+            "contacto": "Enviar correo electrónico",
+            "metodo": "correo@electronico.com",
+            "href":"https://www.whatsapp.com/",
+            "estilos": {
+                "border": "2px solid #62BAF2",
+                "borderRadius": "30px",
+                "padding": "24px",
+                "width": "100%"
+            }
+        },
+        "accion3":{
+            "icono": "/png/iconoGris.png",
+            "contacto": "Texto de acción",
+            "metodo": "dirección a donde",
+            "href":"https://www.whatsapp.com/",
+            "estilos": {
+                "border": "2px solid #3D3D3D",
+                "borderRadius": "30px",
+                "padding": "24px",
+                "width": "100%"
+            }
+        }
+    }
+}
