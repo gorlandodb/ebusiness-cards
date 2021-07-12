@@ -10,7 +10,9 @@ module.exports = {
        '12': 'repeat(12, minmax(0, 1fr))',
       },
       gridRowEnd: {
+        '11': '11',
         '12': '12',
+        '13': '13',
       },
       backgroundImage: theme => ({
         'fondo': "url('/jpg/image.jpg')",
