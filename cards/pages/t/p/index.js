@@ -6,7 +6,7 @@ import Informacion from './components/part5'
 import RedesSociales from './components/part6'
 import Datos from './p00000000.json'
 
-export default function c00000000() {
+export default function p00000000() {
   return (
     <div className=" bg-red-400 flex justify-center lg:p-10 lg:bg-white r">
       <div className="rounded-3xl flex bg-red-400  w-full justify-center px-2 py-10 sm:py-10 md:w-4/5	lg:w-4/5 lg:px-24 ">
