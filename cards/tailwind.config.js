@@ -19,7 +19,10 @@ module.exports = {
       }),
       fontSize: {
         'xxs': '.5rem',
-      }
+      }, 
+      borderWidth: {
+        '1': '1px'
+      },
     },
   },
   variants: {
