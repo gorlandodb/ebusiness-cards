@@ -69,51 +69,51 @@ export default function Vercel() {
         <div>
            <div className="grid grid-cols-1 grid-rows-2 md:grid-cols-2 md:grid-rows-1 md:h-screen">
                <div className="col-start-1 col-end-2 row-start-1 row-end-2 bg-gray-100">
-                   <div className="grid md:grid-cols-1 md:grid-rows-1 lg:grid-cols-3 lg:grid-rows-1 h-full">
-                       <div className="md:col-start-1 md:col-end-2 lg:col-start-2 lg:col-end-4 row-start-1 row-end-2 p-10 my-auto">
-                           <div className="pr-20">
+                   <div className="grid md:grid-cols-1 lg:grid-cols-5 xl:grid-cols-7 grid-rows-1 h-full">
+                       <div className="md:col-start-1 md:col-end-2 lg:col-start-2 lg:col-end-6 xl:col-start-3 xl:col-end-8 row-start-1 row-end-2 p-10 my-auto">
+                           <div className="lg:pr-14">
                                <div className="mb-8">
                                    <img src="packVercel/vercel.svg"/>
                                </div>
-                               <div className="mb-3">
+                               <div className="mb-5 md:mb-3">
                                     <div className="flex">
                                        <img src="/packVercel/check.svg" className="mr-2"/>
                                        <p className="text-lg font-semibold">Letras en negrito</p>
                                     </div>
                                     <div className="pl-6">
-                                       <p className="text-sm text-gray-600">Lorem ipsum dolor sit amet consectetur adipisicing elit. Nihil, eaque, recusandae vel nisi autem voluptatem rem</p>
+                                       <p className="text-sm text-gray-600">Lorem ipsum dolor sit amet consectetur adipisicing elit. Nihil, eaque, recusandae vel nisi autem</p>
                                     </div>
                                </div>
-                               <div className="mb-3">
+                               <div className="mb-5 md:mb-3">
                                     <div className="flex">
                                        <img src="/packVercel/check.svg" className="mr-2"/>
                                        <p className="text-lg font-semibold">Letras en negrito</p>
                                     </div>
                                     <div className="pl-6">
-                                       <p className="text-sm text-gray-600">Lorem ipsum dolor sit amet consectetur adipisicing elit. Nihil, eaque, recusandae vel nisi autem voluptatem rem</p>
+                                       <p className="text-sm text-gray-600">Lorem ipsum dolor sit amet consectetur adipisicing elit. Nihil, eaque, recusandae vel nisi autem</p>
                                     </div>
                                </div>
-                               <div className="mb-3">
+                               <div className="mb-5 md:mb-3">
                                     <div className="flex">
                                        <img src="/packVercel/check.svg" className="mr-2"/>
                                        <p className="text-lg font-semibold">Letras en negrito</p>
                                     </div>
                                     <div className="pl-6">
-                                       <p className="text-sm text-gray-600">Lorem ipsum dolor sit amet consectetur adipisicing elit. Nihil, eaque, recusandae vel nisi autem voluptatem rem</p>
+                                       <p className="text-sm text-gray-600">Lorem ipsum dolor sit amet consectetur adipisicing elit. Nihil, eaque, recusandae vel nisi autem</p>
                                     </div>
                                </div>
-                               <div className="mb-3">
+                               <div className="mb-5 md:mb-3">
                                     <div className="flex">
                                        <img src="/packVercel/check.svg" className="mr-2"/>
                                        <p className="text-lg font-semibold">Letras en negrito</p>
                                     </div>
                                     <div className="pl-6">
-                                       <p className="text-sm text-gray-600">Lorem ipsum dolor sit amet consectetur adipisicing elit. Nihil, eaque, recusandae vel nisi autem voluptatem rem</p>
+                                       <p className="text-sm text-gray-600">Lorem ipsum dolor sit amet consectetur adipisicing elit. Nihil, eaque, recusandae vel nisi autem</p>
                                     </div>
                                </div>
                            </div>
                            <div>
-                               <div><p className="text-gray-600 font-bold text-sm my-4">COMPAÑIAS QUE USAN ESTO</p></div>
+                               <div><p className="text-gray-600 font-bold text-sm mt-8 mb-4">COMPAÑIAS QUE USAN ESTO</p></div>
                                <div className="space-x-4">
                                    <img className="inline" src="/packVercel/iconoMediano.svg"/>
                                    <img className="inline" src="/packVercel/iconoChico.svg"/>
@@ -128,8 +128,8 @@ export default function Vercel() {
                    </div>
                </div>
                <div className="col-start-1 col-end-2 row-start-2 row-end-3 md:col-start-2 md:col-end-3 md:row-start-1 md:row-end-2">
-                   <div className="grid md:grid-cols-1 md:grid-rows-1 lg:grid-cols-2 lg:grid-rows-1 h-full">
-                       <div className="col-start-1 col-end-2 row-start-1 row-end-2 p-10 my-auto">
+                   <div className="grid grid-cols-1 lg:grid-cols-3 xl:grid-cols-2 grid-rows-1 h-full">
+                       <div className="col-start-1 col-end-2 lg:col-end-3 xl:col-end-2 row-start-1 row-end-2 p-10 my-auto">
                            <div>
                                <div className="mb-8">
                                    <h1 className="text-4xl font-semibold">Join the best fronted teams</h1>
