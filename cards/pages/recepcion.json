@@ -5,173 +5,173 @@
         "RFC": "CAAC000725HJCZ"
     },
     "parte2": {
-        "cargos": {
-            "1": {
+        "cargos": [
+            {
                 "fecha":"01/05/21",
                 "monto":"1,200mxn",
                 "producto":"Diseño web"
             },
-            "2": {
+            {
+                "fecha":"01/05/21",
+                "monto":"1,200mxn",
+                "producto":"El max"
+            },
+            {
+                "fecha":"01/05/21",
+                "monto":"1,200mxn",
+                "producto":"Putas"
+            },
+            {
+                "fecha":"01/05/21",
+                "monto":"1,200mxn",
+                "producto":"Al birote"
+            },
+            {
+                "fecha":"01/05/21",
+                "monto":"1mxn",
+                "producto":"El cesar xd"
+            },
+            {
                 "fecha":"01/05/21",
                 "monto":"1,200mxn",
                 "producto":"Diseño web"
             },
-            "3": {
+            {
                 "fecha":"01/05/21",
                 "monto":"1,200mxn",
                 "producto":"Diseño web"
             },
-            "4": {
-                "fecha":"01/05/21",
-                "monto":"1,200mxn",
-                "producto":"Diseño web"
-            },
-            "5": {
-                "fecha":"01/05/21",
-                "monto":"1,200mxn",
-                "producto":"Diseño web"
-            },
-            "6": {
-                "fecha":"01/05/21",
-                "monto":"1,200mxn",
-                "producto":"Diseño web"
-            },
-            "7": {
-                "fecha":"01/05/21",
-                "monto":"1,200mxn",
-                "producto":"Diseño web"
-            },
-            "8": {
+            {
                 "fecha":"01/05/21",
                 "monto":"1,200mxn",
                 "producto":"Diseño web"
             }
-        },
-        "reembolsos": {
-            "1": {
+        ],
+        "reembolsos": [
+            {
                 "fecha":"01/05/21",
                 "monto":"1,200mxn",
                 "producto":"Diseño web"
             },
-            "2": {
+            {
+                "fecha":"01/05/21",
+                "monto":"1,200mxn",
+                "producto":"El max"
+            },
+            {
+                "fecha":"01/05/21",
+                "monto":"1,200mxn",
+                "producto":"Putas"
+            },
+            {
+                "fecha":"01/05/21",
+                "monto":"1,200mxn",
+                "producto":"Al birote"
+            },
+            {
+                "fecha":"01/05/21",
+                "monto":"1mxn",
+                "producto":"El cesar xd"
+            },
+            {
                 "fecha":"01/05/21",
                 "monto":"1,200mxn",
                 "producto":"Diseño web"
             },
-            "3": {
+            {
                 "fecha":"01/05/21",
                 "monto":"1,200mxn",
                 "producto":"Diseño web"
             },
-            "4": {
-                "fecha":"01/05/21",
-                "monto":"1,200mxn",
-                "producto":"Diseño web"
-            },
-            "5": {
-                "fecha":"01/05/21",
-                "monto":"1,200mxn",
-                "producto":"Diseño web"
-            },
-            "6": {
-                "fecha":"01/05/21",
-                "monto":"1,200mxn",
-                "producto":"Diseño web"
-            },
-            "7": {
-                "fecha":"01/05/21",
-                "monto":"1,200mxn",
-                "producto":"Diseño web"
-            },
-            "8": {
+            {
                 "fecha":"01/05/21",
                 "monto":"1,200mxn",
                 "producto":"Diseño web"
             }
-        },
-        "transacciones": {
-            "1": {
+        ],
+        "transacciones": [            
+            {
                 "fecha":"01/05/21",
                 "monto":"1,200mxn",
                 "producto":"Diseño web"
             },
-            "2": {
+            {
+                "fecha":"01/05/21",
+                "monto":"1,200mxn",
+                "producto":"El max"
+            },
+            {
+                "fecha":"01/05/21",
+                "monto":"1,200mxn",
+                "producto":"Putas"
+            },
+            {
+                "fecha":"01/05/21",
+                "monto":"1,200mxn",
+                "producto":"Al birote"
+            },
+            {
+                "fecha":"01/05/21",
+                "monto":"1mxn",
+                "producto":"El cesar xd"
+            },
+            {
                 "fecha":"01/05/21",
                 "monto":"1,200mxn",
                 "producto":"Diseño web"
             },
-            "3": {
+            {
                 "fecha":"01/05/21",
                 "monto":"1,200mxn",
                 "producto":"Diseño web"
             },
-            "4": {
-                "fecha":"01/05/21",
-                "monto":"1,200mxn",
-                "producto":"Diseño web"
-            },
-            "5": {
-                "fecha":"01/05/21",
-                "monto":"1,200mxn",
-                "producto":"Diseño web"
-            },
-            "6": {
-                "fecha":"01/05/21",
-                "monto":"1,200mxn",
-                "producto":"Diseño web"
-            },
-            "7": {
-                "fecha":"01/05/21",
-                "monto":"1,200mxn",
-                "producto":"Diseño web"
-            },
-            "8": {
+            {
                 "fecha":"01/05/21",
                 "monto":"1,200mxn",
                 "producto":"Diseño web"
             }
-        },
-        "eventosStripe": {
-            "1": {
+        ],
+        "eventosStripe": [            
+            {
                 "fecha":"01/05/21",
                 "monto":"1,200mxn",
                 "producto":"Diseño web"
             },
-            "2": {
+            {
+                "fecha":"01/05/21",
+                "monto":"1,200mxn",
+                "producto":"El max"
+            },
+            {
+                "fecha":"01/05/21",
+                "monto":"1,200mxn",
+                "producto":"Putas"
+            },
+            {
+                "fecha":"01/05/21",
+                "monto":"1,200mxn",
+                "producto":"Al birote"
+            },
+            {
+                "fecha":"01/05/21",
+                "monto":"1mxn",
+                "producto":"El cesar xd"
+            },
+            {
                 "fecha":"01/05/21",
                 "monto":"1,200mxn",
                 "producto":"Diseño web"
             },
-            "3": {
+            {
                 "fecha":"01/05/21",
                 "monto":"1,200mxn",
                 "producto":"Diseño web"
             },
-            "4": {
-                "fecha":"01/05/21",
-                "monto":"1,200mxn",
-                "producto":"Diseño web"
-            },
-            "5": {
-                "fecha":"01/05/21",
-                "monto":"1,200mxn",
-                "producto":"Diseño web"
-            },
-            "6": {
-                "fecha":"01/05/21",
-                "monto":"1,200mxn",
-                "producto":"Diseño web"
-            },
-            "7": {
-                "fecha":"01/05/21",
-                "monto":"1,200mxn",
-                "producto":"Diseño web"
-            },
-            "8": {
+            {
                 "fecha":"01/05/21",
                 "monto":"1,200mxn",
                 "producto":"Diseño web"
             }
-        }
+        ]
     }
 }
