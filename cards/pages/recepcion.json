@@ -1,0 +1,177 @@
+{
+    "parte1": {
+        "perfil": "/png/pi1.png",
+        "Nombre": "Christian Ivan Cazarin de Anda",
+        "RFC": "CAAC000725HJCZ"
+    },
+    "parte2": {
+        "cargos": {
+            "1": {
+                "fecha":"01/05/21",
+                "monto":"1,200mxn",
+                "producto":"Diseño web"
+            },
+            "2": {
+                "fecha":"01/05/21",
+                "monto":"1,200mxn",
+                "producto":"Diseño web"
+            },
+            "3": {
+                "fecha":"01/05/21",
+                "monto":"1,200mxn",
+                "producto":"Diseño web"
+            },
+            "4": {
+                "fecha":"01/05/21",
+                "monto":"1,200mxn",
+                "producto":"Diseño web"
+            },
+            "5": {
+                "fecha":"01/05/21",
+                "monto":"1,200mxn",
+                "producto":"Diseño web"
+            },
+            "6": {
+                "fecha":"01/05/21",
+                "monto":"1,200mxn",
+                "producto":"Diseño web"
+            },
+            "7": {
+                "fecha":"01/05/21",
+                "monto":"1,200mxn",
+                "producto":"Diseño web"
+            },
+            "8": {
+                "fecha":"01/05/21",
+                "monto":"1,200mxn",
+                "producto":"Diseño web"
+            }
+        },
+        "reembolsos": {
+            "1": {
+                "fecha":"01/05/21",
+                "monto":"1,200mxn",
+                "producto":"Diseño web"
+            },
+            "2": {
+                "fecha":"01/05/21",
+                "monto":"1,200mxn",
+                "producto":"Diseño web"
+            },
+            "3": {
+                "fecha":"01/05/21",
+                "monto":"1,200mxn",
+                "producto":"Diseño web"
+            },
+            "4": {
+                "fecha":"01/05/21",
+                "monto":"1,200mxn",
+                "producto":"Diseño web"
+            },
+            "5": {
+                "fecha":"01/05/21",
+                "monto":"1,200mxn",
+                "producto":"Diseño web"
+            },
+            "6": {
+                "fecha":"01/05/21",
+                "monto":"1,200mxn",
+                "producto":"Diseño web"
+            },
+            "7": {
+                "fecha":"01/05/21",
+                "monto":"1,200mxn",
+                "producto":"Diseño web"
+            },
+            "8": {
+                "fecha":"01/05/21",
+                "monto":"1,200mxn",
+                "producto":"Diseño web"
+            }
+        },
+        "transacciones": {
+            "1": {
+                "fecha":"01/05/21",
+                "monto":"1,200mxn",
+                "producto":"Diseño web"
+            },
+            "2": {
+                "fecha":"01/05/21",
+                "monto":"1,200mxn",
+                "producto":"Diseño web"
+            },
+            "3": {
+                "fecha":"01/05/21",
+                "monto":"1,200mxn",
+                "producto":"Diseño web"
+            },
+            "4": {
+                "fecha":"01/05/21",
+                "monto":"1,200mxn",
+                "producto":"Diseño web"
+            },
+            "5": {
+                "fecha":"01/05/21",
+                "monto":"1,200mxn",
+                "producto":"Diseño web"
+            },
+            "6": {
+                "fecha":"01/05/21",
+                "monto":"1,200mxn",
+                "producto":"Diseño web"
+            },
+            "7": {
+                "fecha":"01/05/21",
+                "monto":"1,200mxn",
+                "producto":"Diseño web"
+            },
+            "8": {
+                "fecha":"01/05/21",
+                "monto":"1,200mxn",
+                "producto":"Diseño web"
+            }
+        },
+        "eventosStripe": {
+            "1": {
+                "fecha":"01/05/21",
+                "monto":"1,200mxn",
+                "producto":"Diseño web"
+            },
+            "2": {
+                "fecha":"01/05/21",
+                "monto":"1,200mxn",
+                "producto":"Diseño web"
+            },
+            "3": {
+                "fecha":"01/05/21",
+                "monto":"1,200mxn",
+                "producto":"Diseño web"
+            },
+            "4": {
+                "fecha":"01/05/21",
+                "monto":"1,200mxn",
+                "producto":"Diseño web"
+            },
+            "5": {
+                "fecha":"01/05/21",
+                "monto":"1,200mxn",
+                "producto":"Diseño web"
+            },
+            "6": {
+                "fecha":"01/05/21",
+                "monto":"1,200mxn",
+                "producto":"Diseño web"
+            },
+            "7": {
+                "fecha":"01/05/21",
+                "monto":"1,200mxn",
+                "producto":"Diseño web"
+            },
+            "8": {
+                "fecha":"01/05/21",
+                "monto":"1,200mxn",
+                "producto":"Diseño web"
+            }
+        }
+    }
+}
